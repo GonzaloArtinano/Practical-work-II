@@ -1,0 +1,43 @@
+footer {
+    background-color: #505050;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer a {
+    color: rgb(139, 186, 255);
+}
+
+header {
+    background-color: blue;
+    color: white;
+
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 40px;
+}
+
+nav button {
+    margin: 20px;
+}
+
+.header-content nav button {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.688);
+
+}
+
+.title {
+    margin-right: 40px;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    text-shadow: -1px -1px 0 darkgray, 1px -1px 0 darkgray, -1px 1px 0 darkgray, 1px 1px 0 darkgray;
+}
