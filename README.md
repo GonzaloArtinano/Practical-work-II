@@ -14,3 +14,5 @@ This repository is created for building a website.
 - Upgraded the form.
 - Made the fce website.
 - Made the topic section about HTML.
+- Made the net with the websites of other partners.
+- Proyect finished.
