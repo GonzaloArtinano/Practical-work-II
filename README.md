@@ -13,3 +13,4 @@ This repository is created for building a website.
 - Contact Form for contact.html implemented.
 - Upgraded the form.
 - Made the fce website.
+- Made the topic section about HTML.
