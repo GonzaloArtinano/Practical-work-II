@@ -11,3 +11,4 @@ This repository is created for building a website.
 - Adding introduction to index.html
 - Done about me section with the images added and social media section.
 - Contact Form for contact.html implemented.
+- Upgraded the form.
