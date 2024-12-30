@@ -16,3 +16,4 @@ This repository is created for building a website.
 - Made the topic section about HTML.
 - Made the net with the websites of other partners.
 - Proyect finished.
+- Fixing the net images and making them same size.
