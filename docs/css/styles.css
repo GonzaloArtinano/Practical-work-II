@@ -71,3 +71,7 @@ nav button {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+.image-main {
+    margin: 20px;
+}
