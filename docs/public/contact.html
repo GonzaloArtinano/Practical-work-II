@@ -31,12 +31,26 @@
 
 	<main>
 		<section>
-			<h2>Section 1</h2>
-			<p>This is an example of a section.</p>
-		</section>
-		<section>
-			<h2>Section 2</h2>
-			<p>This is another example of a section.</p>
+			<h2>Contact Form</h2>
+			<form action="https://formspree.io/f/mwppqgdr" method="POST">
+				<ul>
+					<li>
+						<label for="name">Name:</label>
+						<input type="text" id="name" name="user_name" required/>
+					</li>
+					<li>
+						<label for="mail">E-mail:</label>
+						<input type="email" id="mail" name="user_email" required/>
+					</li>
+					<li>
+						<label for="msg">Message:</label>
+						<textarea id="msg" name="user_message" required></textarea>
+					</li>
+					<li>
+						<button type="submit">Send</button>
+					</li>
+				</ul>
+			</form>
 		</section>
 	</main>
 
